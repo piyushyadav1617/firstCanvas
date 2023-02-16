@@ -1,0 +1,10 @@
+#canvas1 {
+  /* to make the canvas on the whole screen */
+
+  position: absolute;
+  background: black;
+  width: 100%;
+  height: 100%;
+  top: 0;
+  left: 0;
+}
